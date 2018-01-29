@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Swalog"
+theme = "hyde"
+
+[author]
+name = "Alexander Hoffmann"
+
+[params]
+layoutReverse = true
+description= "Journal, \"thoughts on X\", ongoing projects."
