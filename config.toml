@@ -1,4 +1,4 @@
-baseURL = "www.swalog.ch"
+baseURL = ""
 languageCode = "en-us"
 title = "Swalog"
 theme = "hyde"
