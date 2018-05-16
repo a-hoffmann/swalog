@@ -8,10 +8,9 @@ Hi, I'm Alex.
 
 Brit/Swiss living in Singapore, writing about technology, travel, and observations in general.
 
-Creating this blog as a way of learning how to make one without too many moving parts and dependencies that I don't master. 
+Creating this blog as a way of learning how to make one from scratch, without too many moving parts and dependencies that are outside of my control. 
 
-It's also just to express myself a little, forming my opinions and impressions, and sharing these for discussion. 
+It's also just to express myself a little, forming my opinions and impressions, and sharing these for to be read and somehow discussed. 
 
 Looking forward to the experience! 
-
 
