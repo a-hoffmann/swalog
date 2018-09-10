@@ -13,7 +13,7 @@
 </div>
 Latest:
 {{ range first 2 .Data.Pages -}}
-<li><a href="<{{ .Permalink }}">{{ .Title }}</a> <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></li>
+<li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></li>
 {{ end }}
 {{ end }}
 
